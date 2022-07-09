@@ -20,7 +20,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       description: '北京林业大学计算机与网络协会',
     }
   },
-  base: '/bljx_blog/', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
+
+  base: '.', // 默认'/'。如果你想将你的网站部署到如 https://foo.github.io/bar/，那么 base 应该被设置成 "/bar/",（否则页面将失去样式等文件）
+  //base: '/',
+  // base: '/bljx_blog/',
 
   // 主题配置
   themeConfig: {
