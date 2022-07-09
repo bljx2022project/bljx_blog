@@ -73,7 +73,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
 
     sidebarDepth: 2, // 侧边栏显示深度，默认1，最大2（显示到h3标题）
     logo: '/img/logo.png', // 导航栏logo
-    repo: 'inannan423/inannan423.github.io', // 导航栏右侧生成Github链接
+    repo: 'bljx2022project/bljx_blog', // 导航栏右侧生成Github链接
     searchMaxSuggestions: 10, // 搜索结果显示最大数
     lastUpdated: 'Last updated ', // 开启更新时间，并配置前缀文字   string | boolean (取值为git提交时间)
     docsDir: 'docs', // 编辑的文件夹
@@ -310,11 +310,11 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
       {
         choosen: 'gitalk',
         options: {
-          clientID: '91a166b3ea425cdfea3d',
-          clientSecret: 'e46947b323a52c592a86b48787d976825ca58f27',
-          repo: 'inannan423.github.io', // GitHub 仓库
-          owner: 'inannan423', // GitHub仓库所有者
-          admin: ['inannan423'], // 对仓库有写权限的人
+          clientID: '047fe01f1c0380381e01',
+          clientSecret: 'd9533396c890cefa7a4c620d8e1f0d1f151e21e6',
+          repo: 'bljx2022project/bljx_blog', // GitHub 仓库
+          owner: 'bljx2022project', // GitHub仓库所有者
+          admin: ['bljx2022project'], // 对仓库有写权限的人
           distractionFreeMode: true,
           pagerDirection: 'last', // 'first'正序 | 'last'倒序
           id: '<%- (frontmatter.permalink || frontmatter.to.path).slice(-16) %>', //  页面的唯一标识,长度不能超过50

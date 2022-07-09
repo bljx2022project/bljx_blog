@@ -14,12 +14,12 @@ cd docs/.vuepress/dist
 
 if [ -z "$ACCESS_TOKEN" ]; then
   msg='deploy'
-  githubUrl=git@github.com:inannan423/inannan423.github.io 
+  githubUrl=git@github.com:bljx2022project/bljx_blog  
 else
   msg='来自github actions的自动部署'
-  githubUrl=https://inannan423:${ACCESS_TOKEN}@github.com/inannan423.github.io.git
-  git config --global user.name "inannan423"
-  git config --global user.email "605031236@qq.com"
+  githubUrl=https://bljx2022project:${ACCESS_TOKEN}@github.com/bljx_blog.git
+  git config --global user.name "bljx2022project"
+  git config --global user.email "help@bljx.org"
 fi
 git init
 git add -A
