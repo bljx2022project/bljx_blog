@@ -148,7 +148,7 @@ const config = {
             ],
           },
         ],
-        copyright: `<br/> Copyright © ${new Date().getFullYear()} 北京林业大学计算机与网络协会 <br/> Made with ❤ by Chengzihan. <br> Built with <a herf="https://docusaurus.io/zh-CN/">Docusaurus<a/>.`,
+        copyright: `<br/> Copyright © ${new Date().getFullYear()} 北京林业大学计算机与网络协会 <br/> Made with ❤ by Chengzihan. `,
       },
       prism: {
         theme: lightCodeTheme,
