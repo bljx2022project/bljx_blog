@@ -8,16 +8,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '北林计协官网',
   tagline: 'Welcome to CNA',
-  url: 'https://bljx.netlify.app/',
-  baseUrl: '/',
+  url: 'https://bljx2022project.github.io',
+  baseUrl: '/bljx_blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: '北林计协', // Usually your GitHub org/user name.
-  projectName: '北林计协官网', // Usually your repo name.
+  organizationName: 'bljx2022project', // Usually your GitHub org/user name.
+  projectName: 'bljx_blog', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -95,6 +95,7 @@ const config = {
           //     },
           //   ],
           // },
+
           {
             title: '快速链接',
             items: [
