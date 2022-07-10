@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '北林计协官网',
   tagline: 'Welcome to CNA',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://bljx.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -91,7 +91,7 @@ const config = {
             items: [
               {
                 label: '技术博客',
-                to: '/blog',
+                to: 'docs',
               },
             ],
           },

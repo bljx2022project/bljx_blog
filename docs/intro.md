@@ -1,7 +1,7 @@
 ---
 title: 介绍:北林计协
 description: 北林计协介绍
-slug: 介绍:北林计协
+slug: Intro
 authors:
   - name: Cheng Orange
     title: 计协官网Creator
