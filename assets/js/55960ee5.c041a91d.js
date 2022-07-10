@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbljx=self.webpackChunkbljx||[]).push([[121],{8070:l=>{l.exports=JSON.parse('[{"label":"hello","permalink":"/bljx_blog/docs/tags/hello","count":2},{"label":"\u5317\u6797\u8ba1\u534f","permalink":"/bljx_blog/docs/tags/\u5317\u6797\u8ba1\u534f","count":2}]')}}]);
