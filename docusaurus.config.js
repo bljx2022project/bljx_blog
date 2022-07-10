@@ -87,6 +87,7 @@ const config = {
           // { to: '/docs/welcome.md', label: '关于计协', position: 'right' },
         ],
       },
+      
       footer: {
         style: 'light',
         links: [
@@ -110,6 +111,10 @@ const config = {
           {
             title: '计协项目',
             items: [
+              {
+                label: '北京林业大学视觉识别系统',
+                href: 'http://vi.bjfu.edu.cn/',
+              },
               {
                 label: '2021暑期实践',
                 href: 'https://github.com/bljx2021project',
