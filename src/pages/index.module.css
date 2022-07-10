@@ -1,0 +1,73 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(240, 248, 255, 0);
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tt1{
+  font-size: 90px;
+  background-image: linear-gradient(to right, rgba(66, 211, 146, 1), rgba(93, 142, 233, 1));
+  -webkit-background-clip: text;
+  color: transparent;
+  font-family: Ubuntu;
+  font-weight:600;
+}
+
+.tt2{
+  font-size: 50px;
+  background-image: linear-gradient(to right, rgba(66, 211, 146, 1), rgba(93, 142, 233, 1));
+  -webkit-background-clip: text;
+  color: transparent;
+  font-family: Ubuntu;
+  font-weight:600;
+}
+/* rgba(66, 211, 146, 1) 0% 
+rgba(93, 142, 233, 1) 100%  */
+.c1{
+  height:400px;
+  width:400px;
+  background-color:rgba(255, 192, 203, 0.11);
+  position:fixed;
+  z-index:-100;
+  bottom:60px;
+   filter:blur(130px);
+   opacity:1;
+  left:340px;
+  animation-name: breath;
+  animation-duration: 7s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}
+.c2{
+  height:400px;
+  width:400px;
+  background-color:#7fffd41d;
+  position:fixed;
+  z-index:-100;
+  top:170px;
+  filter:blur(120px);
+  opacity:1;right:300px;
+  animation-name: breath;
+  animation-duration: 10s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+}

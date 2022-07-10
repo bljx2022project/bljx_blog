@@ -1,21 +1,20 @@
-# npm
-package-lock.json
-/keys.json
-/.temp-encrypt
-# yarn
-yarn.lock
+# Dependencies
+/node_modules
 
-pnpm-lock.yaml
+# Production
+/build
 
-# vscode
-.vscode
+# Generated files
+.docusaurus
+.cache-loader
 
-# vuepress
-docs/.vuepress/dist
-
-# 百度链接推送
-urls.txt
-
-# mac
+# Misc
 .DS_Store
-node_modules
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
