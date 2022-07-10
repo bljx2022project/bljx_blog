@@ -1,15 +1,12 @@
 ---
 title: 介绍:北林计协
-description: 北林计协介绍
-slug: Intro
+date: 2022-01-06
 authors:
   - name: Cheng Orange
     title: 计协官网Creator
     url: https://github.com/inannan423
     image_url: https://jetzihan-img.oss-cn-beijing.aliyuncs.com/blog/20220710133634.png
 tags: [hello, 北林计协]
-image: https://i.imgur.com/mErPwqL.png
-hide_table_of_contents: false
 ---
 
 ## 计协简介
