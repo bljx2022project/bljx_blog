@@ -86,15 +86,15 @@ const config = {
       footer: {
         style: 'light',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: '技术博客',
-                to: 'docs',
-              },
-            ],
-          },
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: '技术博客',
+          //       to: 'docs',
+          //     },
+          //   ],
+          // },
           {
             title: '快速链接',
             items: [
