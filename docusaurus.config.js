@@ -69,6 +69,11 @@ const config = {
         // },
         items: [
           //导航栏配置项
+                  {
+          to: "/",
+          label: "首页",
+          position: "right",
+        },
           {
              //文档选项
             type: 'doc',
