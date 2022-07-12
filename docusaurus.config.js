@@ -155,6 +155,11 @@ const config = {
                 label: 'GitHub',
                 href: 'https://github.com/bljx',
               },
+              
+              {
+                label: 'Jetzihan',
+                href: 'https://czhan.netlify.app',
+              },
             ],
           },
         ],
