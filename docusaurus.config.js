@@ -96,7 +96,7 @@ const config = {
             label: '技术博客',  // 这个item显示的文字
           },
           //博客选项
-          //{ to: '/blog', label: '技术博客', position: 'right' },
+          { to: '/blog', label: '计协新闻', position: 'right' },
           //Github仓库连接
           {
             href: 'https://github.com/bljx',
