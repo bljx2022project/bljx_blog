@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbljx=self.webpackChunkbljx||[]).push([[937],{4175:l=>{l.exports=JSON.parse('{"permalink":"/bljx_blog/blog/tags/\u5317\u6797\u8ba1\u534f","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

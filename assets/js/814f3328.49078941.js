@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbljx=self.webpackChunkbljx||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u8ba1\u534f\u5b98\u7f51\u4e0a\u7ebf","permalink":"/bljx_blog/blog/news1"}]}')}}]);
