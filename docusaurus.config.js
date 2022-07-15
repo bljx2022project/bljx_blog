@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '北林计协官网',
+  title: '北林计协|计算机与网络协会',
   tagline: 'Welcome to CNA',
   url: 'https://bljx2022project.github.io',
   baseUrl: '/bljx_blog/',
