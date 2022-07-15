@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>北林计协官网 Blog</title>
+        <title>北林计协|计算机与网络协会 Blog</title>
         <link>https://bljx2022project.github.io/bljx_blog/blog</link>
-        <description>北林计协官网 Blog</description>
+        <description>北林计协|计算机与网络协会 Blog</description>
         <lastBuildDate>Thu, 14 Jul 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
